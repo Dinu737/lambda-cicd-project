@@ -1,0 +1,8 @@
+lambda-cicd-project/
+│
+├── lambda_function.py
+├── README.md
+└── screenshots/
+    ├── lambda-function.png
+    ├── lambda-test-success.png
+    └── codepipeline-execution.png
